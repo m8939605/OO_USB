@@ -1,0 +1,5 @@
+*.obj
+*.hex
+test1/Listings/*
+test1/Objects/*
+test1/test1.uvgui.warp2
